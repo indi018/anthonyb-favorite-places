@@ -9,3 +9,10 @@ h1 {
 footer {
   text-align: center;
 }
+div {
+  display: flex;
+  flex-direction: column; /* Items arranged in a column */
+}
+card body {
+  justify-content: center;
+}
